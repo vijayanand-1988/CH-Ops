@@ -1,6 +1,6 @@
 <div align="center">
 
-# CHOps - Beta
+# CHOps - Beta -test
 
 ### Admin tool and GUI for ClickHouse® database. Self-hosting ClickHouse® database made easy.
 
